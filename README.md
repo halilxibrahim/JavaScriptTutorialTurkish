@@ -1,3 +1,6 @@
+# JavaScript Öğrenme Rehberi
+Bu rehber, JavaScript'i başlangıç seviyesinden başlayarak adım adım öğrenmek isteyenler için tasarlanmıştır. JavaScript'in temellerini anlamak, modern web geliştirme dünyasında başarılı olmanız için önemlidir.
+
 # İçindekiler
 
 01. [Veri Tipleri](https://github.com/halilxibrahim/JavaScriptTutorialTurkish/blob/master/veri-tipleri.js)
