@@ -51,3 +51,34 @@ function ucgenealan (x, y) {
 //Symbol: Benzersiz ve değişmez değerler oluşturmak için kullanılır. Genellikle nesne özelliklerinin anahtarları olarak kullanılır.
 
 let key = Symbol('description');
+
+// MATH SABİTLERİ - Matematik Nesnesi - Objesi ( Math Object )
+
+//Math.PI: Pi sayısını (π) temsil eden bir sabittir.
+
+console.log(Math.PI); // 3.141592653589793
+
+//Math.E: Euler sabitini (e) temsil eden bir sabittir.
+
+console.log(Math.E); // 2.718281828459045
+
+/*
+Math.abs(x): Bir sayının mutlak değerini döndürür.
+
+Math.ceil(x): Bir sayının üst tamsayıya yuvarlanmış değerini döndürür.
+
+Math.floor(x): Bir sayının alt tamsayıya yuvarlanmış değerini döndürür.
+
+Math.round(x): Bir sayıyı en yakın tamsayıya yuvarlar.
+
+Math.max(...x): Verilen sayıların en büyüğünü döndürür.
+
+Math.min(...x): Verilen sayıların en küçüğünü döndürür.
+
+Math.pow(x, y): Bir sayının üssünü alır.
+
+Math.sqrt(x): Bir sayının karekökünü döndürür.
+
+Math.random(): 0 ile 1 arasında rastgele bir ondalık sayı döndürür.
+
+ */
