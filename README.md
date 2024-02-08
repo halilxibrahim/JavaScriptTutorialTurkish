@@ -1,7 +1,7 @@
 # İçindekiler
 
-01. [Veri Tipleri](#veri-tipleri)
-02. [Booleanlar, Operatörler, Tarih](#booleanlar-operatörler-tarih)
+01. [Veri Tipleri](https://github.com/halilxibrahim/JavaScriptTutorialTurkish/blob/master/veri-tipleri.js)
+02. [Booleanlar, Operatörler, Tarih](https://github.com/halilxibrahim/JavaScriptTutorialTurkish/blob/master/booleans.js)
 03. [Koşullu İfadeler](#koşullu-ifadeler)
 04. [Diziler](#diziler)
 05. [Döngüler](#döngüler)
