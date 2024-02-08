@@ -2,23 +2,22 @@
 
 01. [Veri Tipleri](https://github.com/halilxibrahim/JavaScriptTutorialTurkish/blob/master/veri-tipleri.js)
 02. [Booleanlar, Operatörler, Tarih](https://github.com/halilxibrahim/JavaScriptTutorialTurkish/blob/master/booleans.js)
-03. [Koşullu İfadeler](#koşullu-ifadeler)
-04. [Diziler](#diziler)
-05. [Döngüler](#döngüler)
-06. [Fonksiyonlar](#fonksiyonlar)
-07. [Nesneler](#nesneler)
-08. [Yüksek Düzeyli Fonksiyonlar](#yüksek-düzeyli-fonksiyonlar)
-09. [Setler ve Haritalar](#setler-ve-haritalar)
-10. [Yıkım ve Yayma](#yıkım-ve-yayma)
-11. [Düzenli İfadeler](#düzenli-ifadeler)
-12. [Konsol Nesnesi Metotları](#konsol-nesnesi-metotları)
-13. [Hata İşleme](#hata-işleme)
-14. [Sınıflar](#sınıflar)
-15. [JSON](#json)
-16. [Web Depoları](#web-depoları)
-17. [Promise'ler](#promise'ler)
-18. [Kapanış](#kapanış)
-19. [Temiz Kod Yazma](#temiz-kod-yazma)
-20. [DOM](#dom)
-21. [DOM Nesnelerini Manipüle Etme](#dom-nesnelerini-manipüle-etme)
-22. [Olay Dinleyicileri](#olay-dinleyicileri)
+03. [Koşullu İfadeler]
+04. [Diziler]
+05. [Döngüler]
+06. [Fonksiyonlar]
+07. [Nesneler]
+08. [Yüksek Düzeyli Fonksiyonlar]
+09. [Setler ve Haritalar]
+10. [Yıkım ve Yayma]
+11. [Düzenli İfadeler]
+12. [Konsol Nesnesi Metotları]
+13. [Hata İşleme]
+14. [Sınıflar]
+15. [JSON]
+16. [Web Depoları]
+17. [Promise'ler]
+18. [Temiz Kod Yazma]
+19. [DOM]
+20. [DOM Nesnelerini Manipüle Etme]
+21. [Olay Dinleyicileri]
